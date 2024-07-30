@@ -1,1 +1,0 @@
-# GGSearch-extension
